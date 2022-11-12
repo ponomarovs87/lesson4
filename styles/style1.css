@@ -5,3 +5,4 @@ p>span { color: pink}
 *{text-align: center;color: black}
 .coloryellow{ color: yellow}
 .colorblue { color:blue}
+p+p{text-align: right;color: lawngreen}
